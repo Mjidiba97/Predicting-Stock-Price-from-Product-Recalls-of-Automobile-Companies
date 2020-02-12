@@ -16,5 +16,6 @@ We will use data coming from 3 sources :
 Within the project, you will find a starting kit based on the 'Data Camp' course that we took on our <a href = 'https://datascience-x-master-paris-saclay.fr/'>Master's Degree in Data Science<a>. the starting kit is divided into 4 parts:
 
 * <b>Data folder</b>: contains the RAW data that we gathered for this challenge.
+* <b>problems.py</b>: contains the necessary funtion for reading train/test data and for calculating the score.
 * <b>Jupyter Notebook</b>: contains a full description of the challenge, some exploratory data analysis and a basic prediction model for the reader.
 * <b>Submissisons folder</b>: contains two python files for the final submission. The first one (<i>feature_extractor.py</i>) is for feature engineering, and the second one (<i>regressor.py</i>) is for the regression model.
